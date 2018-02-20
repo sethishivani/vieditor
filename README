@@ -1,0 +1,17 @@
+		    OS Assignment 1 - VI Editor
+Submitted By:
+Shivani Sethi
+Mtech-PG(1)
+20172024
+
+About: 
+This is a text editor resembling the vi editor but with limited feature set.
+
+Argument:
+"filename.txt"
+If it already exists, it is opened in the editor.
+If not, it is created and opened for editing.
+
+Input type text:
+The sentences in the file should be separated by '\n'.
+Vertical and horizontal scrolling have not been implemented. So for proper functioning of code provide an input file of screen size.

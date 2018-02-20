@@ -1,0 +1,2 @@
+shivani: osass.cpp
+	g++ osass.cpp
